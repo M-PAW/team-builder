@@ -1,0 +1,13 @@
+.contentBox {
+    border: 1px solid black;
+}
+
+.cardBox {
+    width: auto;
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: wrap;
+    align-items: center;
+    align-content: space-between;
+}
